@@ -13,7 +13,7 @@ export default siteConfig({
   
   // basic site info (required)
   name: 'Getting Started',
-  domain: 'cool-bottom-f3e',
+  domain: 'https://www.notion.so/Getting-Started-8bf3b967d2a94924b258e727030e6208',
   author: 'Chong Gao',
 
   // open graph metadata (optional)
