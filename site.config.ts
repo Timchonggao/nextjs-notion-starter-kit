@@ -2,18 +2,18 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '8bf3b967d2a94924b258e727030e6208',
+  rootNotionPageId: '5da39957812d44f4994404edb64a13b3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
   // basic site info (required)
   name: 'Getting Started',
-  domain: 'https://www.notion.so/Getting-Started-8bf3b967d2a94924b258e727030e6208',
+  domain: 'https://www.notion.so/cs231n-Learning-Progress-5da39957812d44f4994404edb64a13b3',
   author: 'Chong Gao',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  #description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
