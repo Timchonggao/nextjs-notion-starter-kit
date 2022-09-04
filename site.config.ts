@@ -2,14 +2,13 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '5da39957812d44f4994404edb64a13b3',
-
+  rootNotionPageId: '5c4be1ee81fa4935980e9ca0b8cae38d',
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
   // basic site info (required)
   name: 'Getting Started',
-  domain: 'https://www.notion.so/cs231n-Learning-Progress-5da39957812d44f4994404edb64a13b3',
+  domain: 'https://www.notion.so/Homepage-5c4be1ee81fa4935980e9ca0b8cae38d',
   author: 'Chong Gao',
 
   // open graph metadata (optional)
